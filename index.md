@@ -1,7 +1,9 @@
 ---
 layout: cv
 title: Nikita's CV
+
 ---
+
 # Nikita Ilyin
 Student in CGA, Tennis player, And i allso play the piano
 
@@ -32,10 +34,11 @@ __CGA__
 
 ## Awards
 
-`2012`
+`2017`
 Some tropheys from tennis matches
 
-
+### Place of Residence
+ Bulgaria
 
 
 
