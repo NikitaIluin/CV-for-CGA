@@ -13,11 +13,11 @@ Student in CGA, Tennis player, And i allso play the piano
 
 ## Currently
 
-Standing on the shoulders of giants
+Student
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Business, Economics, English, Computer scinse, Psychology and Mathematics
 
 
 ### Research interests
