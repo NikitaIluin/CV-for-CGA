@@ -1,14 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nikita's CV
 ---
 # Nikita Ilyin
 Student in CGA, Tennis player, And i allso play the piano
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+
 
 
 ## Currently
