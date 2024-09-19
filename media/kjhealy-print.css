@@ -188,6 +188,9 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
+.smaller-iamge{
+    height: 42px;
+    width: 42px;
+}
 
 
